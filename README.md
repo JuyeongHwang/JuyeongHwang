@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stack
+
+- Unity/C#
+- Python
+- C++
+
 <a href="https://github.com/JuyeongHwang">
     <img 
         src="http://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&link=https://github.com/JuyeongHwang"
