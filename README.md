@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##Juyeong : Game Developer
+게임 개발자를 희망하고 있습니다
+
 ## Stack
 
 - Unity/C#
