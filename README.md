@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-IGitHub-black?style=flat&logo=Instagram&link=https://github.com/JuyeongHwang"
+        src="http://img.shields.io/badge/-IGitHub-black?style=flat&logo=GitHub&link=https://github.com/JuyeongHwang"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
