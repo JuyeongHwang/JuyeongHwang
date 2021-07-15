@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://github.com/JuyeongHwang">
     <img 
         src="http://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&link=https://github.com/JuyeongHwang"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
