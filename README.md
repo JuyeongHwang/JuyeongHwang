@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 🎮 Juyeong : Game Developer
 
 게임 개발자를 희망하고 있습니다😊
+VR에 관심이 많습니다 👀👀
 
 ## 💻 Stack
 
