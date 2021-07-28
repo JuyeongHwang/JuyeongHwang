@@ -22,10 +22,9 @@ VR에 관심이 많습니다 👀👀
 
 ## 💻 Stack
 
-- Unity/C#
 - Python
-- C++
-- Unreal Engine4
+- C#/C++
+- Unity/Unreal Engine4
 
 
 
