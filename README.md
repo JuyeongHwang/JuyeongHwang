@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 ## 🎮 Juyeong : Game Developer
 
 게임 개발자를 희망하고 있습니다😊<br>
-요즘 VR에 관심이 많습니다 👀👀
+요즘 VR에 관심이 많습니다 👀👀<br>
+
+I wanna be a game developer! <br>
+nowdays, I'm interested in a VR.<br>
 
 ## 💻 Stack
 
 - Python
 - C#/C++
 - Unity/Unreal Engine4
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuyeongHwang)](https://github.com/anuraghazra/github-readme-stats)
