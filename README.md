@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎮 Juyeong : Game Developer
+## 🎮 Juyeong : Client Game Developer
 
-클라이언트 게임 개발자를 희망하고 있습니다😊<br>
 
 ## 💻 Stack
 
