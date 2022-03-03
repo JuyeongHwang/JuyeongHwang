@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎮 Juyeong : Client Game Developer
+## 🎮 Juyeong : Game Client Programmer
 
 
 ## 💻 Stack
