@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## ✨ Interst
 
-- Direct3D
+- 
