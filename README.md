@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ## 🔥🔥 I’m currently learning ... 
 
 - Machine Learning & Deep Learning
+- Algorithm
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudyyyy4)](https://solved.ac/dudyyyy4)
