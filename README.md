@@ -20,10 +20,14 @@ Here are some ideas to get you started:
 
 ## 💻 Stack
 
-- Python
-- C#/C++
-- Unity/Unreal Engine4
+- Python 
+- C#/C++ 
+- Unity/Unreal Engine4 
 
-## ✨ Interst
+## ✨ Interst 
 
 - 
+
+## 🔥🔥 I’m currently learning ... 
+
+- Machine Learning & Deep Learning
