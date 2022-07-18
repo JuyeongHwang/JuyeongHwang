@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=$soft&color=auto&height=$150&section=header&text=$Hi%20!🥳&fontSize=$40&animation=$fadeIn)
-
 ## 🎮 Juyeong
 
 
