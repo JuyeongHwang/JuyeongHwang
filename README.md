@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 - Algorithm
 
 
+
+-------------------------------
+
 <div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudyyyy4)](https://solved.ac/dudyyyy4)
+//[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudyyyy4)](https://solved.ac/dudyyyy4)
   
 <img src="http://mazandi.herokuapp.com/api?handle=dudyyyy4&theme=warm"/>
   
