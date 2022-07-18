@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=${soft}&color=auto&height=${150}&section=header&text=${Hi%20!🥳}&fontSize=${40}&animation=${fadeIn})
 
 ## 🎮 Juyeong
 
@@ -38,6 +37,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudyyyy4)](https://solved.ac/dudyyyy4)
   
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={dudyyyy4}&theme=warm"/>
   
 </div>
