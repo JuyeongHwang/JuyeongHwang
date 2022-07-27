@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 - Machine Learning & Deep Learning
 - Algorithm
-
+- Shader
+- Blender
 
 
 </b>
