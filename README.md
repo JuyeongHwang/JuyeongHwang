@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 ## 🔥🔥 I’m currently learning ... 
 
 - Machine Learning & Deep Learning
-- Algorithm
-- Shader
-- Blender
+- Computer Graphics
