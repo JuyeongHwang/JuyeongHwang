@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## ✨ Interst 
 
-- 
+- CG
 
 ## 🔥🔥 I’m currently learning ... 
 
