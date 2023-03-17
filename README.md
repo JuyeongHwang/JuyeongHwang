@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 - Python 
 - C#/C++ 
-- Unity/Unreal Engine4 
+- Unity/Unreal Engine4,5 
 
 ## ✨ Interst 
 
 - CG
+- Game
 
 ## 🔥🔥 I’m currently learning ... 
 
 - Machine Learning & Deep Learning
+- Reinforcement Learning
 - Computer Graphics
