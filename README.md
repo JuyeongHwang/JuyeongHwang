@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - C#/C++ 
 - Unity/Unreal Engine4,5 
 
-## ✨ Interst 
+## ✨ Interst Area
 
 - CG
 - Game
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ## 🔥🔥 I’m currently learning ... 
 
 - Machine Learning & Deep Learning
-- Reinforcement Learning
+- Deep Reinforcement Learning
 - Computer Graphics
