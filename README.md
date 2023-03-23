@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - C#/C++ 
 - Unity/Unreal Engine4,5 
 
-## ✨ Interst Area
+## ✨ Interesting fields
 
 - CG
 - Game
