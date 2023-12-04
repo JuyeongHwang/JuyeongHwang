@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - Deep Reinforcement Learning
 - Computer Graphics
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=HJY&show_icons=true)
