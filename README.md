@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 - Python 
 - C#/C++ 
-- Unity/Unreal Engine4,5 
+- Unity/Unreal Engine4,5
+- DX11
 
 ## ✨ Interesting fields
 
