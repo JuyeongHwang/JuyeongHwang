@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 - C#/C++ 
 - Unity/Unreal Engine4,5
 - DX11
+- Pytorch
 
 ## ✨ Interesting fields
 
 - CG
 - Game
+- RL
 
 ## 🔥🔥 I’m currently learning ... 
 
